@@ -16,4 +16,4 @@ hello Git! hello zhouan!
 hello Git! hello zhouan!
 hello Git! hello zhouan!
 hello Git! hello zhouan!
-hello Git! hello zhouan!
+hello Git! hello zhouan! hot-fix test
